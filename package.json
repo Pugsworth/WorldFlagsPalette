@@ -1,0 +1,16 @@
+{
+  "name": "worldflagspalettes",
+  "version": "0.0.0",
+  "description": "Fetch world flags and turn them into color palettes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "chroma-js": "^2.4.2",
+    "get-svg-colors": "^2.0.0",
+    "svg-country-flags": "^1.2.10"
+  }
+}
